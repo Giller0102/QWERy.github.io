@@ -1,0 +1,671 @@
+@media screen and (max-width: 1440px) {
+    .container {
+        max-width: 1240px;
+        overflow: hidden;
+    }
+    .inform_img_wr img {
+        width: 546px;
+    }
+    .subtitle_wr {
+        width: 436px;
+    }
+    h2 {
+        font-size: 60px;
+    }
+    .inform_content_text {
+        font-size: 17px;
+        width: 506px;
+    }
+    .first_screen .subtitle_wr {
+        width: 546px;
+    }
+}
+
+
+@media screen and (max-width: 1200px) {
+    .container {
+        max-width: 1080px;
+        overflow: hidden;
+    }
+    .inform_img_wr img {
+        width: 476px;
+    }
+    h2 {
+        font-size: 57px;
+    }
+    .subtitle_wr {
+        width: 419px;
+    }
+    .inform {
+        height: 829px;
+    }        
+    .about_us .inform_content_text {
+        width: 879px;
+    }
+    .culture .inform_img_wr img {
+        width: 434px;
+    }
+    .culture .inform_content_text {
+        width: 485px;
+    }
+}
+
+
+@media screen and (max-width: 1140px) {
+    .container {
+        max-width: 944px;
+        overflow: hidden;
+    }
+    h1 {
+        font-size: 90px;
+    }
+    .subtitle_wr {
+        width: 375px;
+    }
+    .subtitle_wr .line {
+        width: 57px;
+    }
+    h2 {
+        font-size: 49px;
+        width: none;
+    }
+    .inform_content_text {
+        font-size: 16px;
+        width: 409px;
+        line-height: 26px;
+    }
+    .inform_img_wr img {
+        width: 439px;
+    }
+    .inform_content_wr {
+        margin-left: 50px;
+    }
+    .about_us .inform_content_text {
+        width: 715px;
+    }
+}
+
+
+@media screen and (max-width: 991px) {
+    .container {
+        max-width: 768px;
+        overflow: hidden;
+    }
+    h1 {
+        width: 768px;
+        font-size: 75px;
+    }
+    .promo_screen {
+        height: 894px;
+        padding-top: 90px;
+    }
+    .inform_img_wr img {
+        width: 418px;
+    }
+    .inform_content_wr {
+        margin-left: 30px;
+    }
+    .about_us {
+        padding-top: 358px;
+        height: 658px;
+    }
+    h2 {
+        font-size: 46px;
+        line-height: 60px;
+    }
+    .culture .inform_content_text {
+        width: 389px;
+    }
+    .culture .subtitle_wr {
+        width: 382px;
+    }
+    .subtitle_wr .subtitle {
+        font-size: 16.5px;
+    }
+    .culture .inform_img_wr img {
+        width: 359px;
+    }
+    .inform_content_wr {
+        margin-right: 30px;
+    }
+    .culture {
+        padding-top: 230px;
+        height: 770px;
+    }
+    .footer_section {
+        height: 128px;
+    }
+    .links_columns {
+        margin-top: 29px;
+        margin-left: 20px;
+    }    
+    
+    .promo_screen {
+        height: 730px;
+    }
+    .inform .container {
+        display: block;
+    }
+    .inform {
+        height: 996px;
+        padding-top: 110px;
+    }
+    .inform_img_wr img {
+        width: 331px;
+        margin: 0 auto;
+        margin-bottom: 40px;
+    }
+    .inform .subtitle_wr {
+        margin: 0 auto;
+        margin-bottom: 30px;
+    }
+    .inform h2 {
+        font-size: 44px;
+        margin: 0 auto;
+        text-align: center;
+        margin-bottom: 27px;
+    }
+    .inform_content_text {
+        width: 554px;
+    }
+    .inform .inform_content_text {
+        text-align: center;
+    }
+    .read_more {
+        margin: 0 auto;
+    }
+    .about_us {
+        padding-top: 150px;
+        height: 623px;
+    }
+    .about_us .subtitle_wr .subtitle {
+        color: #fff;
+    }
+    .about_us .line {
+        background-color: #fff;
+    }
+    .slider_btn_left, .slider_btn_right {
+        margin-top: 23px;
+    }
+    .about_us .inform_content_text {
+        width: 607px;
+    }
+    .culture {
+        padding-top: 135px;
+        height: 1000px;
+    }
+    .culture .container {
+        display: block;
+    }
+    .culture .subtitle_wr {
+        margin: 0 auto;
+        margin-bottom: 30px;
+    }
+    .culture h2 {
+        margin: 0 auto;
+        margin-bottom: 30px;
+        text-align: center;
+    } 
+    .culture .inform_content_text {
+        text-align: center;
+        width: 570px;
+    }
+    .culture .read_more {
+        margin-bottom: 45px;
+    }
+    .culture .inform_content_text {
+        text-align: center;
+        width: 696px;
+    }
+    .inform_content_text {
+        width: 712px;
+    }
+}
+
+
+@media screen and (max-width: 767px) {
+    .container {
+        max-width: 650px;
+        overflow-x:hidden;
+    }
+    .logo img {
+        display: block;
+        width: 77px;
+        height: auto;
+    }
+    footer .container {
+        display: block;
+    }
+    footer h3 {
+        margin: 0 auto;
+        text-align: center;
+        margin-bottom: 50px;
+    }
+    .footer_form {
+        margin: 0 auto;
+        margin-bottom: 95px;
+    }
+    footer {
+        height: 615px;
+    }
+    h1 {
+        font-size: 70px;
+        margin-bottom: 100px;
+    }
+    .about_us .inform_content_text {
+        width: 536px;
+    }
+    .about_us h2 {
+        width: 597px;
+    }
+    h1 span {
+        font-size: 55px;
+    }
+    .culture .inform_content_text {
+        width: 500px;
+        margin: 0 auto;
+        margin-bottom: 45px;
+    }
+    .inform_content_text {
+        width: 560px;
+    }
+    .about_us {
+        padding-top: 150px;
+        height: 692px;
+    }
+}
+
+
+@media screen and (max-width: 659px) {
+    .container {
+        max-width: 540px;
+        overflow: hidden;
+    }
+    .inform_content_text {
+        width: 480px;
+    }
+    .footer_soc_netw {
+        width: 133px;
+    }
+    .about_us .inform_content_text {
+        width: 500px;
+    }
+    .inform h2 {
+        width: 462px;
+    }
+    .about_us h2 {
+        width: 500px;
+    }
+    .culture h2 {
+        width: 452px;
+    }
+    .culture .inform_content_text {
+        width: 482px;
+    }
+    .subtitle_wr .subtitle {
+        font-size: 13px;
+    }
+    .first_screen .subtitle_wr {
+        width: 410px;
+    }
+    .subtitle_wr .line {
+        width: 42px;
+    }
+    .inform .subtitle_wr {
+        width: 318px;
+    }
+    .culture .subtitle_wr {
+        width: 327px;
+    }
+    h2 {
+        font-size: 40px;
+        line-height: 60px;
+    }
+    .inform_content_text {
+        width: 425px;
+        font-size: 15px;
+    }
+    .read_more p {
+        line-height: 41px;
+    }
+    p {
+        margin-top: 16px;
+    }
+    .culture .inform_content_text {
+        width: 378px;
+    }
+    .slider_btn_left {
+        display: none;
+    }
+    .section_start_content {
+        width: 420px;
+        display: block;
+        height: 500px;
+    }
+    .section_start_content button {
+        display: block;
+        margin: 0 auto;
+        text-align: center;
+        margin-bottom: 35px;
+        width: 260px;
+    }
+}
+
+
+@media screen and (max-width: 540px) {
+    .container {
+        width: 420px;
+        padding: 0;
+        overflow: hidden;
+    }
+    h1 {
+        font-size: 50px;
+        line-height: 90px;
+    }
+    .inform_content_text {
+        width: 364px;
+        font-size: 14px;
+    }
+    .inform h2 {
+        width: 393px;
+    }
+    h2 {
+        font-size: 35px;
+    }
+    .about_us h2 {
+        width: 380px;
+    }
+    .about_us_content {
+        width: 420px;
+    }
+    .about_us .inform_content_text {
+        width: 380px;
+        font-size: 14px;
+    }
+    .culture h2 {
+        display: block;
+        width: 336px;
+    }
+    .culture .inform_content_text {
+        width: 380px;
+    }
+    .culture .read_more {
+        margin-bottom: 100px;
+    }
+    .start .container {
+        display: block;
+    }
+    .start .logo {
+        margin: 0 auto;
+        margin-bottom: 45px;
+        margin-top: 153px;
+    }
+    .start {
+        height: 315px;
+        padding-bottom: 35px;
+    }
+    .section_start_content p {
+        margin: 0 auto;
+        text-align: center;
+        margin-bottom: 27px;
+    }
+    .links_columns {
+        width: 420px;
+        margin: 0 auto;
+    }
+    .column_with_links {
+        width: 100px;
+    }
+    .about_us_content {
+        margin: 0 auto;
+    }
+    .container {
+        max-width: 456px;
+        overflow: hidden;
+    }
+    .footer_section {
+        padding-top: 55px;
+    }
+    .footer_section_content {
+        width: 269px;
+    }
+    .inform {
+        height: 1064px;
+    }
+    .subtitle_wr .subtitle {
+        font-size: 9px;
+    }
+    .first_screen .subtitle_wr {
+        width: 351px;
+    }
+    .inform h2 {
+        font-size: 35px;
+    }
+    .culture h2 {
+        font-size: 35px;
+        line-height: 50px;
+    }
+    .culture .subtitle_wr {
+        width: 275px;
+    }
+    .inform h2 {
+        width: 344px;
+    }
+    .inform .subtitle_wr {
+        width: 273px;
+    }
+    h1 {
+        width: 420px;
+    }
+    .culture .inform_content_text {
+        width: 353px;
+    }
+    footer h3 {
+        font-size: 35px;
+        line-height: 50px;
+        display: block;
+        width: 400px;
+    }
+    .footer_form {
+        width: 339px;
+    }
+    .start {
+        height: 459px;
+    }
+}
+
+
+@media screen and (max-width: 420px) {
+    .container {
+        max-width: 360px;
+        overflow: hidden;
+    }
+    .links_columns {
+        width: 360px;
+        margin: 0 auto;
+    }
+    .footer_form input {
+        width: 236px;
+    }
+    .footer_form {
+        width: 300px;
+        margin: 0 auto;
+        margin-bottom: 95px;
+    }
+    .column_about_mailing {
+        width: 320px;
+    }
+    .column_about_mailing h3 {
+        display: block;
+        width: 280px;
+        text-align: center;
+        margin: 0 auto;
+        margin-bottom: 50px;
+
+    }
+    .footer_form {
+        margin: 0 auto;
+        margin-bottom: 150px;
+        text-align: center;
+    }
+    .subtitle_wr .subtitle {
+        font-size: 10px;
+    }
+    .first_screen .subtitle_wr {
+        width: 360px;
+    }
+    .subtitle_wr .line {
+        width: 35px;
+    }
+    h1 {
+        font-size: 45px;
+        line-height: 75px;
+        text-align: center;
+        width: 340px;
+        margin: 0 auto;
+        margin-bottom: 50px;
+    }
+    h1 span {
+        font-size: 45px;
+    }
+    .promo_screen {
+        height: 530px;
+    }
+    .inform_content_text {
+        width: 290px;
+        font-size: 12px;
+    }
+    .inform h2 {
+        width: 276px;
+        text-align: center;
+        margin: 0 auto;
+        margin-bottom: 32px;
+    }
+    .inform {
+        height: 990px;
+    }
+    .about_us {
+        padding-top: 85px;
+        height: 590px;
+    }
+    .culture h2 {
+        font-size: 32px;
+        width: 314px;
+    }    
+    .about_us_content {
+        width: 290px;
+    }
+    .slider_btn_left, .slider_btn_left {
+        display: none;
+    }
+    .inform .subtitle_wr {
+        width: 277px;
+    }
+    .about_us .inform_content_text {
+        margin: 0 auto;
+        margin-bottom: 40px;
+        width: 360px;
+    }
+    .about_us h2 {
+        width: 360px;
+        line-height: 47px;
+        font-size: 32px;
+    }
+    .about_us .subtitle_wr {
+        margin: 0 auto;
+        width: 196px;
+    }
+    .about_us_content {
+        width: 360px;
+    }
+    .culture .subtitle_wr {
+        width: 290px;
+    }
+    .culture h2 {
+        display: block;
+        width: 290px;
+    }
+    h2 {
+        font-size: 32px;
+    }
+    .culture .inform_content_text {
+        width: 320px;
+    }
+    .section_start_content {
+        width: 360px;
+        margin: 0 auto;
+        margin-bottom: 180px;
+    }
+    .column_about_mailing {
+        width: 320px;
+        margin: 0 auto;
+    }
+    .links_columns {
+        width: 360px;
+        margin: 0 auto;
+        margin-right: 0px;
+        margin-left: 0px;
+        margin: 0 auto;
+    }
+    .footer_section .container {
+        display: block;
+    }
+    .footer_soc_netw {
+        margin: 0 auto;
+        width: 133px;
+        margin-top: 40px;
+    }
+    .footer_section_content {
+        margin-top: 50px;
+    }
+    .footer_section {
+        height: 200px;
+    }
+    footer .container {
+        width: 360px;
+    }
+    .links_columns {
+        margin-top: 50px;
+    }
+    .footer_links a {
+        font-size: 16px;
+    }
+    .title_of_column {
+        font-size: 18px;
+    }
+    .inform h2 {
+        font-size: 30px;
+        line-height: 55px;
+    }
+    .about_us h2 {
+        font-size: 32px;
+        line-height: 55px;
+    }
+    .column_about_mailing h3 {
+        font-size: 27px;
+    }
+    .footer_section .container {
+        height: 200px;
+    }
+    .culture .read_more {
+        margin-bottom: 50px;
+    }
+    .inform_img_wr img {
+        width: 262px;
+    }
+    .culture .inform_img_wr img {
+        width: 263px;
+    }
+    .start {
+        padding: 0px;
+        height: 420px;
+    }
+    .footer_section {
+        height: 275px;
+    }
+    .footer_section_content {
+        width: 300px;
+        margin: 0 auto;
+        margin-top: 40px;
+    }
+}
